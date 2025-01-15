@@ -5,34 +5,34 @@ Welcome to my GitHub profile! I'm Aaron Phan, a third-year Electrical and Comput
 ## About Me
 
 - 🎓 Pursuing a degree in Electrical and Computer Engineering.
-- 🔍 Passionate about **Data Science**, **Machine Learning**, and solving complex problems with code.
-- 💻 Experienced in **Java**, **Python**, **MATLAB**, and **SQL**.
-- 🌟 Currently exploring advanced algorithms and statistical modeling.
+- 🔍 Passionate about **Data Science**, **Machine Learning**, and applying **AI** in practical application domains.
+- 💻 Experienced in **Java**, **Python**, **C++/C**, and **SQL**.
+- 🌟 Currently self-teaching with Stanford's **CS221: Artificial Intelligence** Youtube course.
 
 ## What I Do
 
 - 🧩 **Algorithm Development**: Enjoy creating efficient algorithms and solving challenging problems.
 - 🔢 **Data Analysis**: Skilled in processing and analyzing data to derive insights.
 - 🤖 **Machine Learning**: Building intelligent systems that learn from data.
-- 🔧 **Tools and Technologies**: VS Code, Jupyter Lab, Anaconda, and more.
+- 🔧 **Tools and Technologies**: VS Code, Jupyter Lab, Anaconda, Docker, and more.
 
 ## Projects
 
 Here are some highlights from my GitHub:
 
-- **Maximum Spanning Tree Algorithm**: Implemented a custom algorithm using Java.
-- **HashMap Utilities**: Worked on efficient data structures for various use cases.
-- **MATLAB Visualization**: Created signal and complex number plotting systems.
+- **GlowAI**: An AI-powered app that analyzes images of your face to recommend skincare products for treatment.
+- **MediaDash**: An entertainment management system aggregating content across multiple platforms into one app.
+- **Library Simulator**: A Java-based application simulating a library of items you can check out.
 
 ## Hobbies & Interests
 
-- 🏋️‍♂️ Fitness enthusiast focusing on arm and chest workouts.
-- 🎙️ Podcast listener with interests in history and technology.
-- 🌐 Exploring probabilities, road networks, and optimization problems.
+- 🏎️ Car enthusiast with a love for JDM cars.
+- 🎧 Amateur DJ, primarily mixing electronic dance music.
+- 🌐 Exploring machine learning and its applications for everyday tasks.
 
 ## Let's Connect!
 
 - 🌐 **GitHub**: [github.com/aa-phan](https://github.com/aa-phan)
-- 📧 **Email**: Feel free to reach out for collaboration or inquiries at [your email address here].
+- 📧 **Email**: Feel free to reach out for collaboration or inquiries at [atp2323@utexas.edu].
 
 Thanks for stopping by! 😊
