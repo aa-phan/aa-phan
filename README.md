@@ -11,10 +11,9 @@ Welcome to my GitHub profile! I'm Aaron Phan, a third-year Electrical and Comput
 
 ## What I Do
 
-- 🧩 **Algorithm Development**: Enjoy creating efficient algorithms and solving challenging problems.
+- 🧩 **Problem Solving**: I enjoy solving challenging problems and finding new ways to approach tasks.
 - 🔢 **Data Analysis**: Skilled in processing and analyzing data to derive insights.
 - 🤖 **Machine Learning**: Building intelligent systems that learn from data.
-- 🔧 **Tools and Technologies**: VS Code, Jupyter Lab, Anaconda, Docker, and more.
 
 ## Projects
 
