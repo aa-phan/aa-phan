@@ -19,9 +19,9 @@ Welcome to my GitHub profile! I'm Aaron Phan, a third-year Electrical and Comput
 
 Here are some highlights from my GitHub:
 
+- **Suspect Genie**: A Python-based machine learning tool designed for Symbotic that helps automatically identify unusable shipping freight based on freight characteristics such as case dimensions and weight.
 - **GlowAI**: An AI-powered app that analyzes images of your face to recommend skincare products for treatment.
 - **MediaDash**: An entertainment management system aggregating content across multiple platforms into one app.
-- **Library Simulator**: A Java-based application simulating a library of items you can check out.
 
 <h2> &nbsp;Tools I Have Used</h2>
 <p align="left">
