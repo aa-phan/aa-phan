@@ -1,13 +1,13 @@
 # Hi there! 👋
 
-Welcome to my GitHub profile! I'm Aaron Phan, a third-year Electrical and Computer Engineering major at the University of Texas at Austin, specializing in Data Science and Machine Learning. 🚀
+Welcome to my GitHub profile! I'm Aaron Phan, a fourth-year Electrical and Computer Engineering major at the University of Texas at Austin, specializing in Data Science and Machine Learning. 🚀
+I will be finishing my degree in December of 2026, and am currently looking for new grad roles in software engineering, data science, and systems engineering. Previously, I have interned at Capital One, Spectrum, and Symbotic.
 
 ## About Me
 
 - 🎓 Pursuing a degree in Electrical and Computer Engineering.
 - 🔍 Passionate about **Data Science**, **Machine Learning**, and applying **AI** in practical application domains.
 - 💻 Experienced in **Java**, **Python**, **C++/C**, and **SQL**.
-- 🌟 Currently self-teaching with Stanford's **CS221: Artificial Intelligence** Youtube course.
 
 ## What I Do
 
@@ -56,6 +56,6 @@ Here are some highlights from my GitHub:
 ## Let's Connect!
 
 - 🌐 **GitHub**: [github.com/aa-phan](https://github.com/aa-phan)
-- 📧 **Email**: Feel free to reach out for collaboration or inquiries at [atp2323@utexas.edu].
+- 📧 **Email**: Feel free to reach out for collaboration or inquiries at [aaron.phan240@gmail.com].
 
 Thanks for stopping by! 😊
